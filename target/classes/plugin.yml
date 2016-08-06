@@ -1,0 +1,9 @@
+name: weeTrade
+version: 2.0
+author: KohGeek, PizzaTheft, and Dubehh
+main: nl.dubehh.Main
+commands:
+   Trade:
+      description: Trade Command
+      usage: /<command>
+      aliases: [weeTrade, wTrade, trade]
